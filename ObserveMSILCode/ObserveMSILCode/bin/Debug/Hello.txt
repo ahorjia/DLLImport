@@ -1,0 +1,16 @@
+Microsoft (R) COFF/PE Dumper Version 11.00.60315.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+
+Dump of file C:\Windows\System32\kernel32.dll
+
+File Type: DLL
+
+  Summary
+
+        2000 .data
+        A000 .pdata
+       6E000 .rdata
+        8000 .reloc
+        1000 .rsrc
+       9B000 .text
